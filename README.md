@@ -1,7 +1,7 @@
 # Hi, I'm Ellie 👋🏼
 
 <img src="https://github.com/ellienguyendev/ellienguyendev/blob/master/github-banner2.png?raw=true" alt="banner that says Ellie Nguyen - software engineer, media producer and wellness advocate alongside a cartoon illustration of Ellie'">
-I'm a software engineer by trade and a story-teller at heart. I believe both technology and art have incredible capabilities to transform lives and uplift communities, helping folks to imagine new worlds for themselves. I am passionate about equity within the tech industry for marginalized folks which led to me learn how to code at <a href="https://resilientcoders.org">Resilient Coders</a> and to lead an employee resource group at my previous company to support engineers from bootcamp graduates. <br /><br />
+I'm a software engineer by trade and a story-teller at heart. I believe both technology and art have incredible capabilities to transform lives and uplift communities, helping folks to imagine new worlds for themselves. I am passionate about equity within the tech industry for marginalized folks which led to me learn how to code at <a href="https://resilientcoders.org">Resilient Coders</a> and to lead an employee resource group at my previous company to support engineers from non-traditional backgrounds. <br /><br />
 
 Having a background in advocacy work and organizing drives me to always "take one more". Every challenge we overcome or new heights that we reach, I believe it is our privelege, responsibilty, and joy to help others. I aim to use my skills as a developer to make resources more accessible for those who want to take a non-traditional path into coding and how to do so sustainably. 
 
